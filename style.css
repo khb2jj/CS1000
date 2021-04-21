@@ -1,0 +1,67 @@
+nav {background-color:rgb(192, 233, 238)}
+
+button {background-color: rgb(192, 233, 238);}
+
+.sidebar a {
+    display: block;
+    color: darkslategray;
+    padding: 5px;
+    font-size: 15px;
+    margin-left:2px; 
+    font-size: 15px;
+}
+
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: "Lexend", sans-serif;
+}
+
+h1, h3, h4, a{
+    font-family: "Lexend", sans-serif;
+    color:darkslategray;
+    font-size: 25px;
+}
+
+p {
+    font-family: "Lexend", sans-serif;
+    color:darkslategray; 
+    margin:0;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.sidebar {
+    margin-left: 5px;
+    padding: 0;
+    width: 200px;
+    background-color: white;
+    border-color: rgb(192, 233, 238);
+    border-radius: 5px;
+    border-style: solid;
+    position:fixed;
+    overflow: auto;
+}
+ 
+div.content {
+    margin-left: 210px;
+    margin-bottom: 15px;
+    margin-right:5px;
+    padding: 1px 16px;
+    border-color: rgb(192, 233, 238);
+    border-radius: 5px;
+    border-style: solid;
+}
+
+table, th, td {
+    font-family: "Lexend", sans-serif;
+    border:3px solid rgb(192, 233, 238); 
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align:center;
+}
