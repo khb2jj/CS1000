@@ -22,12 +22,12 @@
 
 <body>
     <?php include('header.html')?>
-    <table style="margin-left:20px; margin-right:20px; width:97%">
+    <table style="margin-left:40px; margin-right:40px; width:94%">
         <tr>
-            <th style="width:10%">Date</th>
+            <th style="width:15%">Date</th>
             <th style="width:30%">Slides</th>
             <th style="width:30%">Readings</th>
-            <th style="width:30%">Assignments</th>
+            <th style="width:25%">Assignments</th>
         </tr>
         
         <tr>
@@ -63,6 +63,7 @@
                 <a class="link" href="https://www.britannica.com/science/computer-science" style="margin:0">2. Computer Science (read just the introduction)</a>
             </td>
             <td>
+                <p style="margin: 0">Assignment 1 open</p>
             </td>
         </tr> 
         
@@ -105,7 +106,7 @@
                 <p style="margin:0">September 3</p>
             </td>
             <td>
-                <p style="margin:0">From the bottom up series introduction</p>
+                <p style="margin:0">From the bottom up (FTBU) series introduction</p>
             </td>
             <td>
             </td>
@@ -123,11 +124,12 @@
                 <p style="margin:0">September 6</p>
             </td>
             <td>
-                <p style="margin:0">From the bottom up: Hardware</p>
+                <p style="margin:0">FTBU: Theory</p>
             </td>
             <td>
             </td>
             <td>
+                <p style="margin: 0">Assignment 1 due</p>
             </td>
         </tr> 
         
@@ -137,7 +139,7 @@
                 <p style="margin:0">September 8</p>
             </td>
             <td>
-                <p style="margin:0">From the bottom up: Hardware (Cont'd)</p>
+                <p style="margin:0">FTBU</p>
             </td>
             <td>
             </td>
@@ -151,11 +153,12 @@
                 <p style="margin:0">September 10</p>
             </td>
             <td>
-                <p style="margin:0">From the bottom up: Software</p>
+                <p style="margin:0">FTBU</p>
             </td>
             <td>
             </td>
             <td>
+                <p style="margin: 0">Assignment 2 open</p>
             </td>
         </tr> 
         
@@ -169,7 +172,7 @@
                 <p style="margin:0">September 13</p>
             </td>
             <td>
-                <p style="margin:0"></p>
+                <p style="margin:0">FTBU</p>
             </td>
             <td>
             </td>
@@ -183,7 +186,7 @@
                 <p style="margin:0">September 15</p>
             </td>
             <td>
-                <p style="margin:0"></p>
+                <p style="margin:0">FTBU</p>
             </td>
             <td>
             </td>
@@ -196,8 +199,13 @@
                 <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
                 <p style="margin:0">September 17</p>
             </td>
-            <td colspan="3">
-                <p style="font-size:28px; margin:0; color:red; text-transform:uppercase">Exam 1 Covering Lectures 1-10</p>
+            <td>
+                <p style="margin:0">FTBU</p>
+            </td>
+            <td>
+            </td>
+            <td>
+                <p style="margin: 0">Assignment 2 due <br> Assigment 3 open</p>
             </td>
             
         </tr> 
@@ -212,7 +220,7 @@
                 <p style="margin:0">September 20</p>
             </td>
             <td>
-                <p style="margin:0"></p>
+                <p style="margin:0">FTBU</p>
             </td>
             <td>
             </td>
@@ -226,7 +234,7 @@
                 <p style="margin:0">September 22</p>
             </td>
             <td>
-                <p style="margin:0"></p>
+                <p style="margin:0">Exam 1 Review</p>
             </td>
             <td>
             </td>
@@ -239,12 +247,8 @@
                 <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
                 <p style="margin:0">September 24</p>
             </td>
-            <td>
-                <p style="margin:0"></p>
-            </td>
-            <td>
-            </td>
-            <td>
+            <td colspan="3">
+                <p style="font-size:28px; margin:0; color:red; text-transform:uppercase">Exam 1 Covering Lectures up to Sept. 20</p>
             </td>
         </tr> 
         
@@ -258,7 +262,7 @@
                 <p style="margin:0">September 27</p>
             </td>
             <td>
-                <p style="margin:0">Algorithms and Problem Solving</p>
+                <p style="margin:0">Data & Data Storage</p>
             </td>
             <td>
             </td>
@@ -272,7 +276,7 @@
                 <p style="margin:0">September 29</p>
             </td>
             <td>
-                <p style="margin:0">Problem solving techniques</p>
+                <p style="margin:0">Data & Data Storage, part 2</p>  
             </td>
             <td>
             </td>
@@ -286,11 +290,12 @@
                 <p style="margin:0">October 1</p>
             </td>
             <td>
-                <p style="margin:0">Algorithms: Real World Examples</p>
+                <p style="margin:0">Algorithms and Problem Solving</p>
             </td>
             <td>
             </td>
             <td>
+                <p style="margin: 0">Assignment 3 due <br> Assignment 4 open</p>
             </td>
         </tr>  
         
@@ -304,7 +309,7 @@
                 <p style="margin:0">October 4</p>
             </td>
             <td>
-                <p style="margin:0">Algorithms: Real World Examples Part 2</p>
+                <p style="margin:0">Problem solving techniques</p> 
             </td>
             <td>
             </td>
@@ -318,7 +323,7 @@
                 <p style="margin:0">October 6</p>
             </td>
             <td>
-                <p style="margin:0">What can't we solve and why?</p>
+                <p style="margin:0">Algorithms: Real World Examples</p>
             </td>
             <td>
             </td>
@@ -332,11 +337,12 @@
                 <p style="margin:0">October 8</p>
             </td>
             <td>
-                <p style="margin:0">What can't we solve and why? Part 2</p>
+                <p style="margin:0">Algorithms: Real World Examples Part 2</p> 
             </td>
             <td>
             </td>
             <td>
+                <p style="margin: 0">Assignment 4 due <br> Assignment 5 open</p>
             </td>
         </tr> 
         
@@ -350,10 +356,12 @@
                 <p style="margin:0">October 13</p>
             </td>
             <td>
+                <p style="margin:0">Evaluating Algorithms</p> 
             </td>
             <td>
             </td>
             <td>
+                
             </td>
         </tr> 
 
@@ -362,9 +370,14 @@
                 <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
                 <p style="margin:0">October 15</p>
             </td>
-            <td colspan="3">
-            <p style="font-size:28px; margin:0; color:red; text-transform:uppercase">Exam 2 Covering Lectures 11-20</p>
+            <td>
+                <p style="margin:0">What computing problems can't we solve and why?</p>
             </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            
         </tr> 
         
         <tr>
@@ -382,6 +395,7 @@
             <td>
             </td>
             <td>
+    
             </td>
         </tr> 
         
@@ -410,6 +424,7 @@
             <td>
             </td>
             <td>
+            <p style="margin: 0">Assignment 5 due <br> Assignment 6 open</p>
             </td>
         </tr> 
         
@@ -423,7 +438,7 @@
                 <p style="margin:0">October 25</p>
             </td>
             <td>
-                <p style="margin:0">AI Search Part 3</p>
+                <p style="margin:0">AI Search Practice</p>
             </td>
             <td>
             </td>
@@ -437,7 +452,7 @@
                 <p style="margin:0">October 27</p>
             </td>
             <td>
-                <p style="margin:0">AI Search Practice</p>
+                <p style="margin:0">Advanced AI concepts</p>
             </td>
             <td>
             </td>
@@ -451,11 +466,12 @@
                 <p style="margin:0">October 29</p>
             </td>
             <td>
-                <p style="margin:0">Advanced AI concepts</p>
+                <p style="margin:0">Web design & development</p>
             </td>
             <td>
             </td>
             <td>
+                <p style="margin: 0">Assignment 6 due <br> Assignment 7 open</p>
             </td>
         </tr> 
         
@@ -469,7 +485,7 @@
                 <p style="margin:0">November 1</p>
             </td>
             <td>
-                <p style="margin:0">Web Development</p>
+                <p style="margin:0">Web design & development, part 2</p>
             </td>
             <td>
             </td>
@@ -483,6 +499,7 @@
                 <p style="margin:0">November 3</p>
             </td>
             <td>
+                <p style="margin:0">Databases</p>
             </td>
             <td>
             </td>
@@ -496,6 +513,7 @@
                 <p style="margin:0">November 5</p>            
             </td>
             <td>
+                <p style="margin:0">Security, bad actors and ethical issues</p>
             </td>
             <td>
             </td>
@@ -513,6 +531,7 @@
                 <p style="margin:0">November 8</p>
             </td>
             <td>
+                <p style="margin:0">Security, bad actors and ethical issues, part 2</p>
             </td>
             <td>
             </td>
@@ -526,7 +545,7 @@
                 <p style="margin:0">November 10</p>
             </td>
             <td>
-                <p style="margin:0">Security and Ethical Issues</p>
+                <p style="margin:0">Exam 2 review</p>
             </td>
             <td>
             </td>
@@ -539,12 +558,8 @@
                 <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
                 <p style="margin:0">November 12</p>
             </td>
-            <td>
-                <p style="margin:0">Careers in CS</p>
-            </td>
-            <td>
-            </td>
-            <td>
+            <td colspan="3">
+            <p style="font-size:28px; margin:0; color:red; text-transform:uppercase">Exam 2 Covering Lectures From Sept. 27 To Nov. 8</p>
             </td>
         </tr>  
         
@@ -558,11 +573,12 @@
                 <p style="margin:0">November 15</p>            
             </td>
             <td>
-                <p style="margin:0">Careers in CS Part 2</p>
+                <p style="margin:0">Careers in CS</p>
             </td>
             <td>
             </td>
             <td>
+                <p style="margin: 0">Assignment 7 due</p>
             </td>
         </tr> 
         
@@ -609,6 +625,7 @@
             <td>
             </td>
             <td>
+                <p style="margin: 0">Assignment 8 open</p>
             </td>
         </tr> 
 
@@ -655,6 +672,7 @@
             <td>
             </td>
             <td>
+                <p style="margin: 0">Assignment 8 due</p>
             </td>
         </tr> 
 
@@ -672,5 +690,6 @@
             </td>
         </tr> 
     </table>
+    <br>
 </body>
 </html>

@@ -11,7 +11,7 @@
     <title>CS 1000</title>
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">    
-    <link rel="stylesheet" href="style.css" /> 
+    <link rel="stylesheet" href="stylesheet.css" /> 
     <link rel="icon" href="computer.png"/>
 
 </head>
@@ -20,19 +20,19 @@
     <?php include('header.html')?>
     
     <div class="sidebar">
-        <h3 style="margin-left:2px; font-size: 20px; padding:5px;">Table of Contents</h3>
+        <h3 style="margin-left:2px; margin-bottom: 0px; font-size: 18px; padding:5px;">Table of Contents</h3>
         <a href="#contact">I. Contact</a>
         <a href="#class-hours">II. Class Days and Times</a>
         <a href="#overview">III. Overview</a>
-        <a href="#objectives">IV. Learning Objectives</a>
-        <a href="#prereqs">V. Background and Prerequisites</a>
-        <a href="#readings">VI. Readings</a>
-        <a href="#assignments">VII. Assignments</a>
-        <a href="#exams">VIII. Exams</a>
-        <a href="#grading">IX. Grading</a>
-        <a href="#honor">X. Honor</a>
-        <a href="#sdac">XI. SDAC and Other Special Circumstances</a>
-        <a href="#religious">XII. Religious Accomodations</a>
+        <a href="#prereqs">VI. Background and Prerequisites</a>
+        <a href="#readings">V. Readings</a>
+        <a href="#assignments">VI. Assignments</a>
+        <a href="#exams">VII. Exams</a>
+        <a href="#grading">VII. Grading</a>
+        <a href="#honor">IX. Honor</a>
+        <a href="#sdac">X. SDAC</a>
+        <a href="#religious">XI. Religious Accomodations</a>
+        <a href="#sources">XII. Credit for the Course Content</a>
       </div>
 
       <div class="content">
@@ -49,7 +49,19 @@
         <br>
         
         <h3 id="overview">III. Overview</h3>
-        <p>This course will have 5 main sections: </p>
+        <p>
+            Computer science (CS) can often seem big, scary, and mysterious to non-computer science majors or those with 
+            no CS experience. "How does my computer even work?" "What is going on in this box?" "What is 'coding' and why
+            do all of my CS friends complain about it?" "Is there a full proof way of solving problems?" "Is there a program 
+            that could do this for me?" "I'm interested in artificial intelligence but... what is it?" If you've ever asked 
+            any of these questions, then this is the course for you. This course is <b>not</b> going to 
+            go into extreme detail about anything and we're not going to be doing any extreme coding (I may have you do a
+            little tiny exercise, but you'll be fine!). When you come out of this course you're going to have a solid 
+            understanding of computer science, and you'll hopefully have an idea of how it will be applied in your future
+            line of work and in your life as a whole. 
+            <br> <br>
+            This course will have 5 main sections: 
+        </p>
         <ol>
             <li>
                 The course will begin with an introduction which motivates the need for computer science, explains 
@@ -87,14 +99,8 @@
                 made you love CS so much that you want to move forward. <br>
             </li>    
         </ol>
-        
-        <br>
-        
-        <h3 id="objectives">IV. Learning Objectives</h3>
-        
-        <br>
-        
-        <h3 id="prereqs">V. Background and Prerequisites</h3>
+                
+        <h3 id="prereqs">IV. Background and Prerequisites</h3>
         <p>Absolutely no background in computer science is needed to take and succeed in this course, and there are no prerequisites.
             This course was designed specifically for those who have no experience with anything having to do with 
             computer science or computing in general. 
@@ -102,11 +108,17 @@
 
         <br>
         
-        <h3 id="readings">VI. Readings</h3>
-        
+        <h3 id="readings">V. Readings</h3>
+        <p>
+            Readings will be used to supplement the material learned in class. The readings might be directly relevant to the lecture 
+            topic, or they might be something I find interesting that I think you will too. You can find links the readings on the "schedule"
+            tab of this website next to the lecture they are associated with. Some readings are optional and others are more strongly recommended.
+            If a reading is optional, it will be noted next to the link on the schedule. 
+        </p>
+
         <br>
         
-        <h3 id="assignments">VII. Assignments</h3>
+        <h3 id="assignments">VI. Assignments</h3>
         <p>Approximately 8 take-home assignments will be used to reinforce topics learned in class.
             Each homework assignment will be worth approximately 7% of the course grade (may be adjusted 
             if assignments are added/dropped). These assignments will take you a little bit beyond what 
@@ -118,11 +130,11 @@
 
         <br>
         
-        <h3 id="exams">VIII. Exams</h3>
+        <h3 id="exams">VII. Exams</h3>
         <p> There will be three exams in this course, all held during the normal class periods. </p>
         <ol>
-            <li>Exam 1: Friday, September 17th</li>
-            <li>Exam 2: Friday, October 15th</li>
+            <li>Exam 1: Friday, September 24th</li>
+            <li>Exam 2: Friday, November 12th</li>
             <li>Final exam: Monday, December 6th</li>
         </ol>
         <p> Exams will be completed individually without collaboration, and will consist
@@ -137,7 +149,7 @@
         
         <br>
         
-        <h3 id="grading">IX. Grading</h3>
+        <h3 id="grading">VIII. Grading</h3>
         <p>The grade you earn will be based on: <br> &nbsp;&nbsp;&nbsp;&nbsp;- Assignments: 8 assignments worth 7% each  <br> &nbsp;&nbsp;&nbsp;&nbsp;- Exams: two midterms worth 12% each, 
         cumulative final exam worth 20% <br> &nbsp;&nbsp;&nbsp;&nbsp;- Up to 3% extra credit can be granted based on substantial and provable class participation <br>
         Your score will map to a letter grade as follows:</p>
@@ -202,7 +214,7 @@
         
         <br>
 
-        <h3 id="honor">X. Honor</h3>
+        <h3 id="honor">IX. Honor</h3>
         <p> Discussions about the course's content are encouraged. Each assignment will 
             describe the collaboration policy for that assignment. Exams will be pledged and 
             there will be no collaboration allowed. Violation of the collaboration policies
@@ -211,7 +223,7 @@
         
         <br>
         
-        <h3 id="sdac">XI. SDAC and Other Special Circumstances</h3>
+        <h3 id="sdac">X. SDAC and Other Special Circumstances</h3>
         <p>
             The University of Virginia strives to provide accessibility to all students. 
             If you require an accommodation to fully access this course, please contact 
@@ -234,7 +246,7 @@
         
         <br>
         
-        <h3 id="religious">XII. Religious Accomodations</h3>
+        <h3 id="religious">XI. Religious Accomodations</h3>
         <p>It is the University's long-standing policy and practice to reasonably 
             accommodate students so that they do not experience an adverse academic 
             consequence when sincerely held religious beliefs or observances 
@@ -247,7 +259,24 @@
             UVAEOCR@virginia.edu or 434-924-3200.
             <br><br>
             Accommodations do not relieve you of the responsibility for completion of 
-            any part of the coursework missed as the result of a religious observance.</p>
+            any part of the coursework missed as the result of a religious observance.
+        </p>
+        
+        <br>
+
+        <h3 id="sources">XII. Credit for the Course Content</h3>
+        <p>
+            This course was put together with the help of the following material and sources:
+            <ol>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ol>
+        </p>
+
       </div>
 </body>
 </html>
