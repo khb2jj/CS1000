@@ -36,7 +36,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">August 25</p>
             </td>
             <td>
@@ -52,7 +52,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">August 27</p>
             </td>
             <td>
@@ -73,7 +73,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">August 30</p>
             </td>
             <td>
@@ -88,7 +88,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">September 1</p>
             </td>
             <td>
@@ -102,11 +102,11 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">September 3</p>
             </td>
             <td>
-                <p style="margin:0">From the bottom up (FTBU) series introduction</p>
+                <a class="link" href="https://docs.google.com/presentation/d/1H1Shxs3HPZlGAY6w0w8pe2zxU-xvkNHYyFftsWZ_GIg/edit#slide=id.p" style="color:blue">From the bottom up (FTBU) series introduction</a>
             </td>
             <td>
             </td>
@@ -120,7 +120,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">September 6</p>
             </td>
             <td>
@@ -135,7 +135,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">September 8</p>
             </td>
             <td>
@@ -149,7 +149,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">September 10</p>
             </td>
             <td>
@@ -168,7 +168,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">September 13</p>
             </td>
             <td>
@@ -182,7 +182,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">September 15</p>
             </td>
             <td>
@@ -196,7 +196,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">September 17</p>
             </td>
             <td>
@@ -216,7 +216,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">September 20</p>
             </td>
             <td>
@@ -230,7 +230,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">September 22</p>
             </td>
             <td>
@@ -244,7 +244,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">September 24</p>
             </td>
             <td colspan="3">
@@ -258,7 +258,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">September 27</p>
             </td>
             <td>
@@ -272,7 +272,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">September 29</p>
             </td>
             <td>
@@ -286,11 +286,11 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">October 1</p>
             </td>
             <td>
-                <p style="margin:0">Algorithms and Problem Solving</p>
+                <a class="link" href="https://docs.google.com/presentation/d/1fQ194csHHnzfcWx6D37CI_-jDeGvicerdCUqw-KAjF4/edit" style="color:blue">Algorithms and Problem Solving</a>
             </td>
             <td>
             </td>
@@ -305,7 +305,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">October 4</p>
             </td>
             <td>
@@ -319,7 +319,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">October 6</p>
             </td>
             <td>
@@ -333,7 +333,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">October 8</p>
             </td>
             <td>
@@ -352,7 +352,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">October 13</p>
             </td>
             <td>
@@ -367,7 +367,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">October 15</p>
             </td>
             <td>
@@ -386,11 +386,11 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">October 18</p>
             </td>
             <td>
-                <p style="margin:0">Artificial Intelligence Introduction</p>
+                <a class="link" href="https://docs.google.com/presentation/d/1SX9JWMcmSDBmu-qW7bj_I4s3ATW_iBYkZNsA4jrQH_U/edit#slide=id.p" style="color:blue">Artificial Intelligence Introduction</a>
             </td>
             <td>
             </td>
@@ -401,7 +401,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">October 20</p>
             </td>
             <td>
@@ -415,7 +415,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">October 22</p>
             </td>
             <td>
@@ -434,7 +434,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">October 25</p>
             </td>
             <td>
@@ -448,7 +448,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">October 27</p>
             </td>
             <td>
@@ -462,7 +462,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">October 29</p>
             </td>
             <td>
@@ -481,7 +481,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">November 1</p>
             </td>
             <td>
@@ -495,7 +495,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">November 3</p>
             </td>
             <td>
@@ -509,7 +509,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">November 5</p>            
             </td>
             <td>
@@ -527,7 +527,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">November 8</p>
             </td>
             <td>
@@ -541,7 +541,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">November 10</p>
             </td>
             <td>
@@ -555,7 +555,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">November 12</p>
             </td>
             <td colspan="3">
@@ -569,7 +569,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">November 15</p>            
             </td>
             <td>
@@ -584,7 +584,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">November 17</p>
             </td>
             <td>
@@ -598,7 +598,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">November 19</p>
             </td>
             <td>
@@ -616,7 +616,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">November 22</p>
             </td>
             <td>
@@ -635,7 +635,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">November 29</p>
             </td>
             <td>
@@ -649,7 +649,7 @@
         
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/wednesday-calendar-daily-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/wednesday-calendar-daily-page.png">
                 <p style="margin:0">December 1</p>
             </td>
             <td>
@@ -663,7 +663,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/friday-daily-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/friday-daily-calendar-page.png">
                 <p style="margin:0">December 3</p>
             </td>
             <td>
@@ -682,7 +682,7 @@
 
         <tr>
             <td>
-                <img style="width:45px; height:45px; padding:3px" src="icons/png/monday-calendar-page.png">
+                <img style="width:45px; height:45px; padding:3px" src="png/monday-calendar-page.png">
                 <p style="margin:0">December 6</p>
             </td>
             <td colspan="3">
