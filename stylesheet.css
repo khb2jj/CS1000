@@ -29,7 +29,7 @@ li {
     border-style: solid;
 }
 
-h1, h3, h4, a{
+h3, h4, a{
     font-family: "Lexend", sans-serif;
     color:darkslategray;
     font-size: 25px;
@@ -39,10 +39,6 @@ p {
     font-family: "Lexend", sans-serif;
     color:darkslategray; 
     margin:0;
-}
-
-a:hover {
-    opacity: 0.5;
 }
 
 div.content {

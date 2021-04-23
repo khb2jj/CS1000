@@ -8,14 +8,34 @@
     <meta name="author" content="Kirsten Bailey">
     <meta name="description" content="Schedule page">  
         
-    <title>CS 1000</title>
+    <title>CS 1000 Schedule</title>
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">    
     <link rel="icon" href="computer.png"/>
 
     <style>
-        .link {
-            font-size: 16px;
+        .slideslink {
+            font-size: 19px;
+            font-weight:bold;
+            color: #e048b5;
+        }
+        .assignlink {
+            font-size: 20px;
+            font-weight:bold;
+            margin: 0; 
+            color:#f55302; 
+        }
+        .readlink {
+            font-size:16px;
+            color:#0e6b01;
+            font-weight:bold;
+        }
+        .week {
+            font-size:20px;
+        }
+
+        table a:hover{
+            color:black;
         }
     </style>
 </head>
@@ -27,11 +47,11 @@
             <th style="width:15%">Date</th>
             <th style="width:30%">Slides</th>
             <th style="width:30%">Readings</th>
-            <th style="width:25%">Assignments</th>
+            <th style="width:25%">Assignments/Inspirational Quotes</th>
         </tr>
         
         <tr>
-            <td colspan="4"><b>Week 1: August 24 - August 27</b></td>
+            <td colspan="4" class="week"><b>Week 1: August 24 - August 27</b></td>
         </tr>        
         
         <tr>
@@ -40,11 +60,11 @@
                 <p style="margin:0">August 25</p>
             </td>
             <td>
-                <p style="margin:0">Course Introduction</p>
+                <a target="_blank" class="slideslink" href="outlines/CourseIntroduction.pdf" style="margin:0">Course Introduction</a>
             </td>
             <td>
-                <a href="syllabus.php" class="link">1. The syllabus </a> <br>
-                <a href="https://franklinchen.com/blog/2011/12/09/why-everyone-should-learn-computer-science/" class="link">2. Why everyone should learn computer science </a>
+                <a target="_blank" href="syllabus.php" class="readlink">1. The syllabus </a> <br>
+                <a target="_blank" href="https://franklinchen.com/blog/2011/12/09/why-everyone-should-learn-computer-science/" class="readlink">2. Why everyone should learn computer science </a>
             </td>
             <td>
             </td>
@@ -56,19 +76,19 @@
                 <p style="margin:0">August 27</p>
             </td>
             <td>
-                <a class="link" href="https://docs.google.com/presentation/d/1FCWOEv8KXQRGUeveZGjjeIQWVkxQzSTLTT74_Y60hvQ/edit#slide=id.g86fa6133bc_4_21157" style="margin:0">What is computer science? Why should you care?</a>
+                <a target="_blank" class="slideslink" href="https://docs.google.com/presentation/d/1FCWOEv8KXQRGUeveZGjjeIQWVkxQzSTLTT74_Y60hvQ/edit#slide=id.g86fa6133bc_4_21157" style="margin:0">What is computer science? Why should you care?</a>
             </td>
             <td>
-                <a class="link" href="https://www.acm.org/binaries/content/assets/education/top-10-reasons-to-major-in-computing.pdf" style="margin:0">1. ACM's Reasons to Study CS</a> <br>
-                <a class="link" href="https://www.britannica.com/science/computer-science" style="margin:0">2. Computer Science (read just the introduction)</a>
+                <a target="_blank" class="readlink" href="https://www.acm.org/binaries/content/assets/education/top-10-reasons-to-major-in-computing.pdf" style="margin:0">1. ACM's Reasons to Study CS</a> <br>
+                <a target="_blank" class="readlink" href="https://www.britannica.com/science/computer-science" style="margin:0">2. Computer Science (read just the introduction)</a>
             </td>
             <td>
-                <p style="margin: 0">Assignment 1 open</p>
+                <a target="_blank" class="assignlink" href="./assignments.php#assign1">Assignment 1 open</a>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 2: August 30 - September 3</b></td>
+            <td colspan="4" class="week"><b>Week 2: August 30 - September 3</b></td>
         </tr> 
         
         <tr>
@@ -77,10 +97,11 @@
                 <p style="margin:0">August 30</p>
             </td>
             <td>
-                <p style="margin:0">CS in the past, present, & future</p>
+                <a target="_blank" class="slideslink" href="outlines/PastPresentFuture.pdf" style="margin:0">CS in the past, present, & future</a>
             </td>
             <td>
-                <a class="link" href="https://engineering.virginia.edu/departments/computer-science/cs-undergraduate-programs#accordion396963" style="margin:0">1. Explore the Curriculum</a>
+                <a target="_blank" class="readlink" href="https://cs.uwaterloo.ca/~shallit/Courses/134/history.html" style="margin:0">1. History of Computer Science</a> <br>
+                <a target="_blank" class="readlink" href="https://www.livescience.com/20718-computer-history.html" style="margin:0">2. A Brief Timeline</a>
             </td>
             <td>
             </td>
@@ -92,9 +113,10 @@
                 <p style="margin:0">September 1</p>
             </td>
             <td>
-                <p style="margin:0">CS at UVa</p>
+                <a target="_blank" class="slideslink" href="outlines/AtUVA.pdf" style="margin:0">CS at UVa</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://engineering.virginia.edu/departments/computer-science/cs-undergraduate-programs#accordion396963" style="margin:0">1. Explore the Curriculum</a>
             </td>
             <td>
             </td>
@@ -106,16 +128,17 @@
                 <p style="margin:0">September 3</p>
             </td>
             <td>
-                <a class="link" href="https://docs.google.com/presentation/d/1H1Shxs3HPZlGAY6w0w8pe2zxU-xvkNHYyFftsWZ_GIg/edit#slide=id.p" style="color:blue">From the bottom up (FTBU) series introduction</a>
+                <a target="_blank" class="slideslink" href="https://docs.google.com/presentation/d/1H1Shxs3HPZlGAY6w0w8pe2zxU-xvkNHYyFftsWZ_GIg/edit#slide=id.p">From the bottom up (FTBU) series introduction</a>
             </td>
             <td>
+                <a target="_black" class="readlink" href="https://medium.datadriveninvestor.com/learn-to-code-or-do-anything-top-down-bottom-up-and-other-approaches-bd2fd8eb89dd">1. Learn to code (or do anything): Top down, bottom up, and other approaches</a>
             </td>
             <td>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 3: September 6 - September 10</b></td>
+            <td colspan="4" class="week"><b>Week 3: September 6 - September 10</b></td>
         </tr> 
         
         <tr>
@@ -124,12 +147,14 @@
                 <p style="margin:0">September 6</p>
             </td>
             <td>
-                <p style="margin:0">FTBU: Theory</p>
+                <a target="_blank" class="slideslink" href="outlines/Theory.pdf" style="margin:0">FTBU: Theory of computation</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://en.wikipedia.org/wiki/Theory_of_computation">1. What is Theory of Computation</a> <br>
+                <a target="_blank" class="readlink" href="https://er.yuvayana.org/theory-of-computation-areas-history-importance/#:~:text=The%20importance%20to%20study%20the,of%20computer%20hardware%20and%20software.">2. Theory of Computation: areas, history & importance (focus on the importance section)</a>
             </td>
             <td>
-                <p style="margin: 0">Assignment 1 due</p>
+                <a target="_blank" class="assignlink" href="assignments.php#assign1" style="margin: 0; color:#f55302; font-weight:bold">Assignment 1 due</a>
             </td>
         </tr> 
         
@@ -139,7 +164,7 @@
                 <p style="margin:0">September 8</p>
             </td>
             <td>
-                <p style="margin:0">FTBU</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU: Binary and Boolean Logic</a>
             </td>
             <td>
             </td>
@@ -153,17 +178,17 @@
                 <p style="margin:0">September 10</p>
             </td>
             <td>
-                <p style="margin:0">FTBU</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
             </td>
             <td>
             </td>
             <td>
-                <p style="margin: 0">Assignment 2 open</p>
+            <a target="_blank" class="assignlink" href="assignments.php#assign2" style="margin: 0; color:#f55302; font-weight:bold">Assignment 2 open</a>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 4: September 13 - September 17</b></td>
+            <td colspan="4" class="week"><b>Week 4: September 13 - September 17</b></td>
         </tr> 
         
         <tr>
@@ -172,7 +197,7 @@
                 <p style="margin:0">September 13</p>
             </td>
             <td>
-                <p style="margin:0">FTBU</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
             </td>
             <td>
             </td>
@@ -186,7 +211,7 @@
                 <p style="margin:0">September 15</p>
             </td>
             <td>
-                <p style="margin:0">FTBU</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
             </td>
             <td>
             </td>
@@ -200,18 +225,19 @@
                 <p style="margin:0">September 17</p>
             </td>
             <td>
-                <p style="margin:0">FTBU</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
             </td>
             <td>
             </td>
             <td>
-                <p style="margin: 0">Assignment 2 due <br> Assigment 3 open</p>
+                <a target="_blank" class="assignlink" href="assignments.php#assign2" style="margin: 0; color:#f55302; font-weight:bold">Assignment 2 due</a> <br>
+                <a target="_blank" class="assignlink" href="assignments.php#assign3" style="margin: 0; color:#f55302; font-weight:bold">Assigment 3 open</a>
             </td>
             
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 5: September 20 - September 24</b></td>
+            <td colspan="4" class="week"><b>Week 5: September 20 - September 24</b></td>
         </tr> 
         
         <tr>
@@ -220,7 +246,7 @@
                 <p style="margin:0">September 20</p>
             </td>
             <td>
-                <p style="margin:0">FTBU</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
             </td>
             <td>
             </td>
@@ -248,12 +274,12 @@
                 <p style="margin:0">September 24</p>
             </td>
             <td colspan="3">
-                <p style="font-size:28px; margin:0; color:red; text-transform:uppercase">Exam 1 Covering Lectures up to Sept. 20</p>
+                <p style="font-size:28px; margin:0; color:#f55302; text-transform:uppercase">Exam 1 Covering Lectures up to Sept. 20</p>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 6: September 27 - October 1</b></td>
+            <td colspan="4" class="week"><b>Week 6: September 27 - October 1</b></td>
         </tr> 
         
         <tr>
@@ -262,7 +288,7 @@
                 <p style="margin:0">September 27</p>
             </td>
             <td>
-                <p style="margin:0">Data & Data Storage</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">Data & Data Storage</a>
             </td>
             <td>
             </td>
@@ -276,7 +302,7 @@
                 <p style="margin:0">September 29</p>
             </td>
             <td>
-                <p style="margin:0">Data & Data Storage, part 2</p>  
+                <a target="_blank" class="slideslink" href="#" style="margin:0">Data & Data Storage, part 2</a>  
             </td>
             <td>
             </td>
@@ -290,17 +316,18 @@
                 <p style="margin:0">October 1</p>
             </td>
             <td>
-                <a class="link" href="https://docs.google.com/presentation/d/1fQ194csHHnzfcWx6D37CI_-jDeGvicerdCUqw-KAjF4/edit" style="color:blue">Algorithms and Problem Solving</a>
+                <a target="_blank" class="slideslink" href="https://docs.google.com/presentation/d/1fQ194csHHnzfcWx6D37CI_-jDeGvicerdCUqw-KAjF4/edit">Algorithms and Problem Solving</a>
             </td>
             <td>
             </td>
             <td>
-                <p style="margin: 0">Assignment 3 due <br> Assignment 4 open</p>
+                <a target="_blank" class="assignlink" href="assignments.php#assign3" style="margin: 0; color:#f55302; font-weight:bold">Assignment 3 due</a> <br>
+                <a target="_blank" class="assignlink" href="assignments.php#assign4" style="margin: 0; color:#f55302; font-weight:bold">Assignment 4 open</a>
             </td>
         </tr>  
         
         <tr>
-            <td colspan="4"><b>Week 7: October 4 - October 8</b></td>
+            <td colspan="4" class="week"><b>Week 7: October 4 - October 8</b></td>
         </tr> 
         
         <tr>
@@ -309,7 +336,7 @@
                 <p style="margin:0">October 4</p>
             </td>
             <td>
-                <p style="margin:0">Problem solving techniques</p> 
+                <a target="_blank" class="slideslink" href="#" style="margin:0">Problem solving techniques</a> 
             </td>
             <td>
             </td>
@@ -323,7 +350,7 @@
                 <p style="margin:0">October 6</p>
             </td>
             <td>
-                <p style="margin:0">Algorithms: Real World Examples</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">Algorithms: Real World Examples</a>
             </td>
             <td>
             </td>
@@ -337,17 +364,18 @@
                 <p style="margin:0">October 8</p>
             </td>
             <td>
-                <p style="margin:0">Algorithms: Real World Examples Part 2</p> 
+                <a target="_blank" class="slideslink" href="#" style="margin:0">Algorithms: Real World Examples Part 2</a> 
             </td>
             <td>
             </td>
             <td>
-                <p style="margin: 0">Assignment 4 due <br> Assignment 5 open</p>
+                <a target="_blank" class="assignlink" href="assignments.php#assign4" style="margin: 0; color:#f55302; font-weight:bold">Assignment 4 due</a> <br>
+                <a target="_blank" class="assignlink" href="assignments.php#assign5" style="margin: 0; color:#f55302; font-weight:bold">Assignment 5 open</a>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 8: October 13 - October 15</b></td>
+            <td colspan="4" class="week"><b>Week 8: October 13 - October 15</b></td>
         </tr> 
         
         <tr>
@@ -356,7 +384,7 @@
                 <p style="margin:0">October 13</p>
             </td>
             <td>
-                <p style="margin:0">Evaluating Algorithms</p> 
+                <a target="_blank" class="slideslink" href="#" style="margin:0">Evaluating Algorithms</a> 
             </td>
             <td>
             </td>
@@ -371,7 +399,7 @@
                 <p style="margin:0">October 15</p>
             </td>
             <td>
-                <p style="margin:0">What computing problems can't we solve and why?</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">What computing problems can't we solve and why?</a>
             </td>
             <td>
             </td>
@@ -381,7 +409,7 @@
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 9: October 18 - October 22</b></td>
+            <td colspan="4" class="week"><b>Week 9: October 18 - October 22</b></td>
         </tr> 
         
         <tr>
@@ -390,7 +418,7 @@
                 <p style="margin:0">October 18</p>
             </td>
             <td>
-                <a class="link" href="https://docs.google.com/presentation/d/1SX9JWMcmSDBmu-qW7bj_I4s3ATW_iBYkZNsA4jrQH_U/edit#slide=id.p" style="color:blue">Artificial Intelligence Introduction</a>
+                <a target="_blank" class="slideslink" href="https://docs.google.com/presentation/d/1SX9JWMcmSDBmu-qW7bj_I4s3ATW_iBYkZNsA4jrQH_U/edit#slide=id.p">Artificial Intelligence Introduction</a>
             </td>
             <td>
             </td>
@@ -405,7 +433,7 @@
                 <p style="margin:0">October 20</p>
             </td>
             <td>
-                <p style="margin:0">AI Search</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">AI Search</a>
             </td>
             <td>
             </td>
@@ -419,17 +447,18 @@
                 <p style="margin:0">October 22</p>
             </td>
             <td>
-                <p style="margin:0">AI Search Part 2</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">AI Search Part 2</a>
             </td>
             <td>
             </td>
             <td>
-            <p style="margin: 0">Assignment 5 due <br> Assignment 6 open</p>
+            <a target="_blank" class="assignlink" href="assignments.php#assign5" style="margin: 0; color:#f55302; font-weight:bold">Assignment 5 due </a> <br>
+            <a target="_blank" class="assignlink" href="assignments.php#assign6" style="margin: 0; color:#f55302; font-weight:bold">Assignment 6 open</a>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 10: October 25 - October 29</b></td>
+            <td colspan="4" class="week"><b>Week 10: October 25 - October 29</b></td>
         </tr> 
         
         <tr>
@@ -438,7 +467,7 @@
                 <p style="margin:0">October 25</p>
             </td>
             <td>
-                <p style="margin:0">AI Search Practice</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">AI Search Practice</a>
             </td>
             <td>
             </td>
@@ -452,9 +481,12 @@
                 <p style="margin:0">October 27</p>
             </td>
             <td>
-                <p style="margin:0">Advanced AI concepts</p>
+                <a target="_blank" class="slideslink" href="#" style="margin:0">Advanced AI concepts</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence#:~:text=AI%20has%20been%20used%20to,education%2C%20transportation%2C%20and%20more.">1. Applications of artificial intelligence</a>
+                <a target="_blank" class="readlink" href="                <a target="_blank" class="readlink" href="https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence#:~:text=AI%20has%20been%20used%20to,education%2C%20transportation%2C%20and%20more.">1. Applications of artificial intelligence</a>
+">1. Applications of artificial intelligence</a>
             </td>
             <td>
             </td>
@@ -466,17 +498,20 @@
                 <p style="margin:0">October 29</p>
             </td>
             <td>
-                <p style="margin:0">Web design & development</p>
+                <a target="_blank" class="slideslink" href="outlines/WebDevPart1.pdf" style="margin:0">Web design & development</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.invisionapp.com/design-defined/web-design-and-development/">1. Web Design and Development</a> <br>
+                <a target="_blank" class="readlink" href="https://www.codeconquest.com/what-is-coding/web-design/">2. Intro to Web Design</a>
             </td>
             <td>
-                <p style="margin: 0">Assignment 6 due <br> Assignment 7 open</p>
+                <a target="_blank" class="assignlink" href="assignments.php#assign6" style="margin: 0; color:#f55302; font-weight:bold">Assignment 6 due</a> <br>
+                <a target="_blank" class="assignlink" href="assignments.php#assign7" style="margin: 0; color:#f55302; font-weight:bold">Assignment 7 open</a>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 11: November 1 - November 5</b></td>
+            <td colspan="4" class="week"><b>Week 11: November 1 - November 5</b></td>
         </tr> 
         
         <tr>
@@ -485,9 +520,10 @@
                 <p style="margin:0">November 1</p>
             </td>
             <td>
-                <p style="margin:0">Web design & development, part 2</p>
+                <a target="_blank" class="slideslink" href="outlines/WebDevPart2.pdf" style="margin:0">Web design & development, part 2</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://careerfoundry.com/en/tutorials/web-development-for-beginners/introduction-to-web-development/">1. A Website Design Tutorial (optional, but good practice)</a>
             </td>
             <td>
             </td>
@@ -499,9 +535,10 @@
                 <p style="margin:0">November 3</p>
             </td>
             <td>
-                <p style="margin:0">Databases</p>
+                <a target="_blank" class="slideslink" href="outlines/Databases.pdf" style="margin:0">Databases</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712">1. Intro to databases (for people who don't know a lot about them)</a>
             </td>
             <td>
             </td>
@@ -513,16 +550,19 @@
                 <p style="margin:0">November 5</p>            
             </td>
             <td>
-                <p style="margin:0">Security, bad actors and ethical issues</p>
+                <a target="_blank" class="slideslink" href="outlines/SecurityAndEthicsPart1.pdf" style="margin:0">Security, bad actors and ethical issues</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://ethics.acm.org/code-of-ethics/software-engineering-code/">1. Software engineering code of ethics</a> <br>
+                <a target="_blank" class="readlink" href="https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime">2. Facts & statistics about identity theft and cybercrime</a> <br>
+                <a target="_blank" class="readlink" href="https://lib.pstcc.edu/csplagiarism/ip">3. What is intellectual property?</a>            
             </td>
             <td>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 12: November 8 - November 12</b></td>
+            <td colspan="4" class="week"><b>Week 12: November 8 - November 12</b></td>
         </tr> 
         
         <tr>
@@ -531,9 +571,11 @@
                 <p style="margin:0">November 8</p>
             </td>
             <td>
-                <p style="margin:0">Security, bad actors and ethical issues, part 2</p>
+                <a target="_blank" class="slideslink" href="outlines/SecurityAndEthicsPart2.pdf" style="margin:0">Security, bad actors and ethical issues, part 2</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://us.norton.com/internetsecurity-malware-what-is-a-computer-virus.html">1. What is a computer virus?</a> <br>
+                <a target="_blank" class="readlink" href="https://computer.howstuffworks.com/virus.htm">2. How computer viruses work</a>
             </td>
             <td>
             </td>
@@ -559,12 +601,12 @@
                 <p style="margin:0">November 12</p>
             </td>
             <td colspan="3">
-            <p style="font-size:28px; margin:0; color:red; text-transform:uppercase">Exam 2 Covering Lectures From Sept. 27 To Nov. 8</p>
+            <p style="font-size:28px; margin:0; color:#f55302; text-transform:uppercase">Exam 2 Covering Lectures From Sept. 27 To Nov. 8</p>
             </td>
         </tr>  
         
         <tr>
-            <td colspan="4"><b>Week 13: November 15 - November 19</b></td>
+            <td colspan="4" class="week"><b>Week 13: November 15 - November 19</b></td>
         </tr> 
         
         <tr>
@@ -573,12 +615,13 @@
                 <p style="margin:0">November 15</p>            
             </td>
             <td>
-                <p style="margin:0">Careers in CS</p>
+                <a target="_blank" class="slideslink" href="outlines/careers.pdf" style="margin:0">Careers in CS</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.usnews.com/education/best-graduate-schools/articles/2019-05-02/what-can-you-do-with-a-computer-science-degree">1. What can you do with a comp sci degree?</a>
             </td>
             <td>
-                <p style="margin: 0">Assignment 7 due</p>
+                <a target="_blank" class="assignlink" href="assignments.php#assign7" style="margin: 0; color:#f55302; font-weight:bold">Assignment 7 due</a>
             </td>
         </tr> 
         
@@ -588,9 +631,11 @@
                 <p style="margin:0">November 17</p>
             </td>
             <td>
-                <p style="margin:0">CS in business and finance</p>
+                <a target="_blank" class="slideslink" href="outlines/BusinessAndFinance.pdf" style="margin:0">CS in business and finance</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://smallbusiness.chron.com/computers-used-marketing-44171.html">1. How computers are used in marketing</a> <br>
+                <a target="_blank" class="readlink" href="https://en.wikipedia.org/wiki/Computational_finance#:~:text=Computational%20finance%20is%20a%20branch,realize%20financial%20models%20or%20systems.">2. Computational finance</a>
             </td>
             <td>
             </td>
@@ -602,16 +647,18 @@
                 <p style="margin:0">November 19</p>
             </td>
             <td>
-                <p style="margin:0">CS in entertainment and media</p>
+                <a target="_blank" class="slideslink" href="outlines/Media.pdf" style="margin:0">CS in entertainment and media</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.computersciencedegreehub.com/faq/how-does-computer-science-impact-movies/">1. How does computer science impact movies?</a> <br>
+                <a target="_blank" class="readlink" href="https://medium.com/@issa.memari/how-computer-science-can-help-diversify-content-and-sources-in-online-social-networks-d7bfe8ebcc29">2. How computer science can help diversify content and sources in online social networks</a>
             </td>
             <td>
             </td>
         </tr> 
         
         <tr>
-            <td colspan="4"><b>Week 14: November 22 - November 23</b></td>
+            <td colspan="4" class="week"><b>Week 14: November 22 - November 23</b></td>
         </tr> 
         
         <tr>
@@ -620,17 +667,21 @@
                 <p style="margin:0">November 22</p>
             </td>
             <td>
-                <p style="margin:0">CS in healthcare</p>
+                <a target="_blank" class="slideslink" href="outlines/Healthcare.pdf" style="margin:0">CS in healthcare</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6257447/">1. Application of computer techniques in medicine</a> <br>
+                <a target="_blank" class="readlink" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6691444/#:~:text=Primary%20care%20physicians%20can%20use,insight%20into%20patient's%20medical%20needs.">2. Overview of artificial intelligence in medicine</a> <br>
+                <a target="_blank" class="readlink" href="https://healthinformatics.uic.edu/blog/when-healthcare-and-computer-science-collide/">3. When healthcare and computer science collide</a> <br>
+                <a target="_blank" class="readlink" href="https://towardsdatascience.com/4-reasons-why-it-is-worth-learning-to-code-as-a-physician-medical-student-63ddc9695e8c">4. Four reasons why it is worth learning to code as a physician/medical student</a>
             </td>
             <td>
-                <p style="margin: 0">Assignment 8 open</p>
+                <a target="_blank" class="assignlink" href="assignments.php#assign8" style="margin: 0; color:#f55302; font-weight:bold">Assignment 8 open</a>
             </td>
         </tr> 
 
         <tr>
-            <td colspan="4"><b>Week 15: November 29 - December 3</b></td>
+            <td colspan="4" class="week"><b>Week 15: November 29 - December 3</b></td>
         </tr> 
 
         <tr>
@@ -639,9 +690,12 @@
                 <p style="margin:0">November 29</p>
             </td>
             <td>
-                <p style="margin:0">CS in environmental science</p>
+                <a target="_blank" class="slideslink" href="outlines/EnvironmentalScience.pdf" style="margin:0">CS in environmental science</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.computersciencedegreehub.com/faq/how-can-computer-science-help-the-environment/">1. How can computer science help the envrionment?</a> <br>
+                <a target="_blank" class="readlink" href="https://www.sciencedaily.com/releases/2016/04/160420111133.htm">2. Computers play a crucial role in preserving the Earth </a> <br>
+                <a target="_blank" class="readlink" href="https://www.cics.umass.edu/admissions/environmental-science">3. Envrionmental science and CS intersection course at University of Massachusetts</a>
             </td>
             <td>
             </td>
@@ -653,9 +707,12 @@
                 <p style="margin:0">December 1</p>
             </td>
             <td>
-                <p style="margin:0">CS in biology</p>
+                <a target="_blank" class="slideslink" href="outlines/Biology.pdf" style="margin:0">CS in biology</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.computersciencedegreehub.com/faq/what-is-computational-biology/#:~:text=Computational%20biology%2C%20which%20is%20also,to%20solve%20biology%2Dbased%20problems.&text=Computational%20biology%20leverages%20quantitative%20tools,algorithm%20design%20and%20frequency%20statistics.">1. What is computational biology?</a> <br>
+                <a target="_blank" class="readlink" href="https://www.nature.com/articles/d41586-018-07595-4">2. Computer logic meets cell biology</a> <br>
+                <a target="_blank" class="readlink" href="https://blogs.unimelb.edu.au/sciencecommunication/2020/09/29/when-biology-and-computer-science-meet/">3. When biology and computer scienc meet</a>
             </td>
             <td>
             </td>
@@ -672,12 +729,12 @@
             <td>
             </td>
             <td>
-                <p style="margin: 0">Assignment 8 due</p>
+                <a target="_blank" class="assignlink" href="assignments.php#assign8" style="margin: 0; color:#f55302; font-weight:bold">Assignment 8 due</a>
             </td>
         </tr> 
 
         <tr>
-            <td colspan="4"><b>Week 16: December 6 - December 7</b></td>
+            <td colspan="4" class="week"><b>Week 16: December 6 - December 7</b></td>
         </tr> 
 
         <tr>
@@ -686,7 +743,7 @@
                 <p style="margin:0">December 6</p>
             </td>
             <td colspan="3">
-                <p style="font-size:28px; margin:0; color:red; text-transform:uppercase">Final exam covering all lectures</p>
+                <p style="font-size:28px; margin:0; color:#f55302; text-transform:uppercase">Final exam covering all lectures</p>
             </td>
         </tr> 
     </table>

@@ -8,7 +8,7 @@
     <meta name="author" content="Kirsten Bailey">
     <meta name="description" content="Syllabus page">  
         
-    <title>CS 1000</title>
+    <title>CS 1000 Syllabus</title>
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">    
     <link rel="stylesheet" href="stylesheet.css" /> 
@@ -268,12 +268,12 @@
         <p>
             This course was put together with the help of the following material and sources:
             <ol>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>All of the readings linked on the syllabus page were immensely helpful in compiling the course material.</li>
+                <li><a style="font-size:16px" target="_blank" href="https://uvatoc.github.io/f19/">UVa's theory of computation course</a></li>
+                <li><a style="font-size:16px" target="_blank" href="https://cs3240.cs.virginia.edu/">UVa's advanced software development, specifically the ethics and professional responsibility section. I used this information in the outlines for the security, bad actors, and ethics section.</a></li>
+                <li><a style="font-size:16px" target="_blank" href="https://aaronbloomfield.github.io/ics/readme.html">Intro to cybersecurity course made by Aaron Bloomfield, used content for the security, bad actors, and ethics outlines</a></li>
+                <li>Nada Basit's Databases course at UVa for the database material</li>
+                <li><a style="font-size:16px" target="_blank" href="https://www.haifeng-xu.com/cs4710sp20/index.htm">Haifeng Xu's artificial intelligence course at UVa</a></li>
             </ol>
         </p>
 
