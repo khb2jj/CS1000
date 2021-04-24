@@ -274,6 +274,7 @@
                 <li><a style="font-size:16px" target="_blank" href="https://aaronbloomfield.github.io/ics/readme.html">Intro to cybersecurity course made by Aaron Bloomfield, used content for the security, bad actors, and ethics outlines</a></li>
                 <li>Nada Basit's Databases course at UVa for the database material</li>
                 <li><a style="font-size:16px" target="_blank" href="https://www.haifeng-xu.com/cs4710sp20/index.htm">Haifeng Xu's artificial intelligence course at UVa</a></li>
+                <li><a style="font-size:16px" target="_blank" href="https://www.nand2tetris.org/course">nand2tetris course</a></li>
             </ol>
         </p>
 

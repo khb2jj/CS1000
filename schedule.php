@@ -47,7 +47,7 @@
             <th style="width:15%">Date</th>
             <th style="width:30%">Slides</th>
             <th style="width:30%">Readings</th>
-            <th style="width:25%">Assignments/Inspirational Quotes</th>
+            <th style="width:25%">Assignments</th>
         </tr>
         
         <tr>
@@ -164,10 +164,13 @@
                 <p style="margin:0">September 8</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU: Binary and Boolean Logic</a>
+                <a target="_blank" class="slideslink" href="outlines/Booleans.pdf" style="margin:0">FTBU: Binary, Boolean Logic, Boolean Arithmetic</a>
             </td>
             <td>
-            </td>
+                <a target="_blank" class="readlink" href="https://www.mathsisfun.com/binary-number-system.html">1. Binary number system</a> <br>
+                <a target="_blank" class="readlink" href="https://circuitglobe.com/binary-addition-and-subtraction.html">2. Binary addition and subtraction</a> <br>
+                <a target="_blank" class="readlink" href="https://www.electronics-tutorials.ws/boolean/bool_7.html">3. Boolean algebra truth tables</a>
+             </td>
             <td>
             </td>
         </tr> 
@@ -178,9 +181,12 @@
                 <p style="margin:0">September 10</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
+                <a target="_blank" class="slideslink" href="Memory.pdf" style="margin:0">FTBU: Booleans to memory</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://whatis.techtarget.com/definition/register">1. Registers</a> <br>
+                <a target="_blank" class="readlink" href="https://www.digitaltrends.com/computing/what-is-ram/">2. What is RAM</a>
+
             </td>
             <td>
             <a target="_blank" class="assignlink" href="assignments.php#assign2" style="margin: 0; color:#f55302; font-weight:bold">Assignment 2 open</a>
@@ -197,9 +203,11 @@
                 <p style="margin:0">September 13</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
+                <a target="_blank" class="slideslink" href="outlines/CompArch.pdf" style="margin:0">FTBU: Computer architecture and program control</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/3">1. The CPU and the fetch-execute cycle</a> <br>
+                <a target="_blank" class="readlink" href="https://www.studytonight.com/computer-architecture/architecture-of-computer-system">2. Architecture of a computer system</a> <br>
             </td>
             <td>
             </td>
@@ -211,9 +219,11 @@
                 <p style="margin:0">September 15</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
+                <a target="_blank" class="slideslink" href="outlines/MachineLanguage.pdf" style="margin:0">FTBU: Machine language</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://techterms.com/definition/machine_language#:~:text=Machine%20language%2C%20or%20machine%20code,digits%20(ones%20and%20zeros).&text=Since%20computers%20are%20digital%20devices,as%20input%20by%20the%20CPU.">1. Machine language</a> <br>
+                <a target="_blank" class="readlink" href="https://www.computerhope.com/jargon/m/machlang.htm">2. Another machine language description</a>
             </td>
             <td>
             </td>
@@ -225,9 +235,11 @@
                 <p style="margin:0">September 17</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
+                <a target="_blank" class="slideslink" href="Assembly.pdf" style="margin:0">FTBU: Assembly language</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.geeksforgeeks.org/difference-between-machine-language-and-assembly-language/">1. Difference between machine language and assembly language</a> <br>
+                <a target="_blank" class="readlink" href="https://www.computerhope.com/jargon/a/al.htm">2. Assembly language</a>
             </td>
             <td>
                 <a target="_blank" class="assignlink" href="assignments.php#assign2" style="margin: 0; color:#f55302; font-weight:bold">Assignment 2 due</a> <br>
@@ -246,9 +258,11 @@
                 <p style="margin:0">September 20</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">FTBU</a>
+                <a target="_blank" class="slideslink" href="outlines/HighLevel.pdf" style="margin:0">FTBU: High level programming languages</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.bbc.co.uk/bitesize/guides/z4cck2p/revision/1">1. Types of programming languages</a> <br>
+                <a target="_blank" class="readlink" href="https://www.geeksforgeeks.org/difference-between-high-level-and-low-level-languages/">2. Difference between high level and low level language</a>
             </td>
             <td>
             </td>
@@ -433,9 +447,11 @@
                 <p style="margin:0">October 20</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">AI Search</a>
+                <a target="_blank" class="slideslink" href="outlines/SearchPart1.pdf" style="margin:0">AI Search</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.javatpoint.com/search-algorithms-in-ai">1. Search algorithms in artificial intelligence</a> <br>
+                <a target="_blank" class="readlink" href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/">2. Tree traversal orders (don't worry about the code, just look at the algorithms)</a> <br>
             </td>
             <td>
             </td>
@@ -447,9 +463,11 @@
                 <p style="margin:0">October 22</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">AI Search Part 2</a>
+                <a target="_blank" class="slideslink" href="outlines/SearchPart2.pdf" style="margin:0">AI Search Part 2</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.javatpoint.com/ai-uninformed-search-algorithms">1. Uninformed search algorithms</a> <br>
+                <a target="_blank" class="readlink" href="https://www.javatpoint.com/ai-informed-search-algorithms">2. Informed search algorithms</a> <br>
             </td>
             <td>
             <a target="_blank" class="assignlink" href="assignments.php#assign5" style="margin: 0; color:#f55302; font-weight:bold">Assignment 5 due </a> <br>
@@ -467,7 +485,7 @@
                 <p style="margin:0">October 25</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">AI Search Practice</a>
+                <a target="_blank" class="slideslink" href="outlines/SearchPractice.pdf" style="margin:0">AI Search Practice</a>
             </td>
             <td>
             </td>
@@ -481,12 +499,11 @@
                 <p style="margin:0">October 27</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">Advanced AI concepts</a>
+                <a target="_blank" class="slideslink" href="outlines/AdvancedAI.pdf" style="margin:0">Advanced AI concepts</a>
             </td>
             <td>
-                <a target="_blank" class="readlink" href="https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence#:~:text=AI%20has%20been%20used%20to,education%2C%20transportation%2C%20and%20more.">1. Applications of artificial intelligence</a>
-                <a target="_blank" class="readlink" href="                <a target="_blank" class="readlink" href="https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence#:~:text=AI%20has%20been%20used%20to,education%2C%20transportation%2C%20and%20more.">1. Applications of artificial intelligence</a>
-">1. Applications of artificial intelligence</a>
+                <a target="_blank" class="readlink" href="https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence#:~:text=AI%20has%20been%20used%20to,education%2C%20transportation%2C%20and%20more.">1. Applications of artificial intelligence</a> <br>
+                <a target="_blank" class="readlink" href="https://www.roboticsbusinessreview.com/ai/3-basic-ai-concepts-explain-artificial-intelligence/">2. Understanding 3 basic concepts</a>                
             </td>
             <td>
             </td>
