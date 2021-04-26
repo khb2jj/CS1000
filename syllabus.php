@@ -275,6 +275,7 @@
                 <li>Nada Basit's Databases course at UVa for the database material</li>
                 <li><a style="font-size:16px" target="_blank" href="https://www.haifeng-xu.com/cs4710sp20/index.htm">Haifeng Xu's artificial intelligence course at UVa</a></li>
                 <li><a style="font-size:16px" target="_blank" href="https://www.nand2tetris.org/course">nand2tetris course</a></li>
+                <li><a style="font-size:16px" target="_blank" href="http://www.cs.virginia.edu/~njb2b/cs4102/f20/schedule.html">UVa's algorithms course for the algorithms material</a></li>
             </ol>
         </p>
 

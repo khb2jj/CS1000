@@ -76,7 +76,7 @@
                 <p style="margin:0">August 27</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="https://docs.google.com/presentation/d/1FCWOEv8KXQRGUeveZGjjeIQWVkxQzSTLTT74_Y60hvQ/edit#slide=id.g86fa6133bc_4_21157" style="margin:0">What is computer science? Why should you care?</a>
+                <a target="_blank" class="slideslink" href="outlines/WhatIsCS.pdf" style="margin:0">What is computer science? Why should you care?</a>
             </td>
             <td>
                 <a target="_blank" class="readlink" href="https://www.acm.org/binaries/content/assets/education/top-10-reasons-to-major-in-computing.pdf" style="margin:0">1. ACM's Reasons to Study CS</a> <br>
@@ -128,7 +128,7 @@
                 <p style="margin:0">September 3</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="https://docs.google.com/presentation/d/1H1Shxs3HPZlGAY6w0w8pe2zxU-xvkNHYyFftsWZ_GIg/edit#slide=id.p">From the bottom up (FTBU) series introduction</a>
+                <a target="_blank" class="slideslink" href="outlines/FTBUIntro.pdf">From the bottom up (FTBU) series introduction</a>
             </td>
             <td>
                 <a target="_black" class="readlink" href="https://medium.datadriveninvestor.com/learn-to-code-or-do-anything-top-down-bottom-up-and-other-approaches-bd2fd8eb89dd">1. Learn to code (or do anything): Top down, bottom up, and other approaches</a>
@@ -181,7 +181,7 @@
                 <p style="margin:0">September 10</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="Memory.pdf" style="margin:0">FTBU: Booleans to memory</a>
+                <a target="_blank" class="slideslink" href="outlines/Memory.pdf" style="margin:0">FTBU: Booleans to memory</a>
             </td>
             <td>
                 <a target="_blank" class="readlink" href="https://whatis.techtarget.com/definition/register">1. Registers</a> <br>
@@ -235,7 +235,7 @@
                 <p style="margin:0">September 17</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="Assembly.pdf" style="margin:0">FTBU: Assembly language</a>
+                <a target="_blank" class="slideslink" href="outlines/Assembly.pdf" style="margin:0">FTBU: Assembly language</a>
             </td>
             <td>
                 <a target="_blank" class="readlink" href="https://www.geeksforgeeks.org/difference-between-machine-language-and-assembly-language/">1. Difference between machine language and assembly language</a> <br>
@@ -302,9 +302,10 @@
                 <p style="margin:0">September 27</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">Data & Data Storage</a>
+                <a target="_blank" class="slideslink" href="outlines/DataOrgPart1.pdf" style="margin:0">Data & Data Organization</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://soshace.com/overview-of-basic-data-structures-how-to-organize-data-the-efficient-way/">1. Overview of basic data structures</a>
             </td>
             <td>
             </td>
@@ -316,9 +317,10 @@
                 <p style="margin:0">September 29</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">Data & Data Storage, part 2</a>  
+                <a target="_blank" class="slideslink" href="outlines/DataOrgPart1.pdf" style="margin:0">Data & Data Organization, part 2</a>  
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/">1. Difference between stack and queue data structures</a>
             </td>
             <td>
             </td>
@@ -330,9 +332,11 @@
                 <p style="margin:0">October 1</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="https://docs.google.com/presentation/d/1fQ194csHHnzfcWx6D37CI_-jDeGvicerdCUqw-KAjF4/edit">Algorithms and Problem Solving</a>
+                <a target="_blank" class="slideslink" href="outlines/Algorithms.pdf">Algorithms and Problem Solving</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://runestone.academy/runestone/books/published/pythonds/Introduction/WhatIsComputerScience.html">1. What is computer science (problem solving perspective)</a><br>
+                <a target="_blank" class="readlink" href="https://www.geeksforgeeks.org/algorithms-design-techniques/">2. Algorithm design techniques</a>
             </td>
             <td>
                 <a target="_blank" class="assignlink" href="assignments.php#assign3" style="margin: 0; color:#f55302; font-weight:bold">Assignment 3 due</a> <br>
@@ -350,9 +354,11 @@
                 <p style="margin:0">October 4</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">Problem solving techniques</a> 
+                <a target="_blank" class="slideslink" href="outlines/ProblemSolving.pdf" style="margin:0">Problem solving techniques</a> 
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.codingninjas.com/blog/2018/11/15/top-down-and-bottom-up-the-difference-between-the-two-programming-approaches/">1. Top-down and bottom-up: what's the difference?</a> <br>
+                <a target="_blank" class="readlink" href="https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm">2. Data structures: divide and conquer</a>
             </td>
             <td>
             </td>
@@ -364,9 +370,10 @@
                 <p style="margin:0">October 6</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">Algorithms: Real World Examples</a>
+                <a target="_blank" class="slideslink" href="outlines/AlgorithmsRealWorldPart1.pdf" style="margin:0">Algorithms: Real World Examples</a>
             </td>
             <td>
+                 <a target="_blank" class="readlink" href="https://www.programiz.com/blog/dsa-in-everyday-life/" style="margin:0">1. In everyday life (pay attention to algorithms section)</a>
             </td>
             <td>
             </td>
@@ -378,9 +385,10 @@
                 <p style="margin:0">October 8</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">Algorithms: Real World Examples Part 2</a> 
+                <a target="_blank" class="slideslink" href="outlines/AlgorithmsRealWorldPart2.pdf" style="margin:0">Algorithms: Real World Examples Part 2</a> 
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.techiedelight.com/huffman-coding/">1. Huffman coding in depth (optional and a little too deep)</a>
             </td>
             <td>
                 <a target="_blank" class="assignlink" href="assignments.php#assign4" style="margin: 0; color:#f55302; font-weight:bold">Assignment 4 due</a> <br>
@@ -398,9 +406,10 @@
                 <p style="margin:0">October 13</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">Evaluating Algorithms</a> 
+                <a target="_blank" class="slideslink" href="outlines/Evaluating.pdf" style="margin:0">Evaluating Algorithms</a> 
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://www.geeksforgeeks.org/analysis-of-different-sorting-techniques/">1. Analysis of different sorting algorithms</a>
             </td>
             <td>
                 
@@ -413,9 +422,10 @@
                 <p style="margin:0">October 15</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="#" style="margin:0">What computing problems can't we solve and why?</a>
+                <a target="_blank" class="slideslink" href="outlines/CantSolve.pdf" style="margin:0">What computing problems can't we solve and why?</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://techplanet.today/post/are-there-problems-that-computers-cant-solve">1. Are there problems that computers can't solve?</a>
             </td>
             <td>
             </td>
@@ -432,9 +442,11 @@
                 <p style="margin:0">October 18</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="https://docs.google.com/presentation/d/1SX9JWMcmSDBmu-qW7bj_I4s3ATW_iBYkZNsA4jrQH_U/edit#slide=id.p">Artificial Intelligence Introduction</a>
+                <a target="_blank" class="slideslink" href="outlines/AIIntro.pdf">Artificial Intelligence Introduction</a>
             </td>
             <td>
+                <a target="_blank" class="readlink" href="https://becominghuman.ai/introduction-to-artificial-intelligence-5fba0148ec99">1. Introduction to artificial intelligence</a><br>
+                <a target="_blank" class="readlink" href="https://learn.g2.com/history-of-artificial-intelligence">2. History of artificial intelligence</a><br>
             </td>
             <td>
     
