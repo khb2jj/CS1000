@@ -317,7 +317,7 @@
                 <p style="margin:0">September 29</p>
             </td>
             <td>
-                <a target="_blank" class="slideslink" href="outlines/DataOrgPart1.pdf" style="margin:0">Data & Data Organization, part 2</a>  
+                <a target="_blank" class="slideslink" href="outlines/DataOrgPart2.pdf" style="margin:0">Data & Data Organization, part 2</a>  
             </td>
             <td>
                 <a target="_blank" class="readlink" href="https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/">1. Difference between stack and queue data structures</a>
@@ -741,7 +741,7 @@
             <td>
                 <a target="_blank" class="readlink" href="https://www.computersciencedegreehub.com/faq/what-is-computational-biology/#:~:text=Computational%20biology%2C%20which%20is%20also,to%20solve%20biology%2Dbased%20problems.&text=Computational%20biology%20leverages%20quantitative%20tools,algorithm%20design%20and%20frequency%20statistics.">1. What is computational biology?</a> <br>
                 <a target="_blank" class="readlink" href="https://www.nature.com/articles/d41586-018-07595-4">2. Computer logic meets cell biology</a> <br>
-                <a target="_blank" class="readlink" href="https://blogs.unimelb.edu.au/sciencecommunication/2020/09/29/when-biology-and-computer-science-meet/">3. When biology and computer scienc meet</a>
+                <a target="_blank" class="readlink" href="https://blogs.unimelb.edu.au/sciencecommunication/2020/09/29/when-biology-and-computer-science-meet/">3. When biology and computer science meet</a>
             </td>
             <td>
             </td>

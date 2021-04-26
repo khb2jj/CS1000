@@ -35,6 +35,12 @@ h3, h4, a{
     font-size: 25px;
 }
 
+h1 {
+    font-family: "Lexend", sans-serif;
+    color:darkslategray;
+    font-size: 40px; 
+}
+
 p {
     font-family: "Lexend", sans-serif;
     color:darkslategray; 
